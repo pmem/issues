@@ -1,4 +1,3 @@
-issues
-======
+This repository contains PMDK issues closed before November 7th, 2019.
 
-issues for pmem org
+Please file new issues in [PMDK Issue Database](https://github.com/pmem/pmdk/issues).
